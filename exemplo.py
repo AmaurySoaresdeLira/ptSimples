@@ -6,3 +6,5 @@ if idade < 40:
     print("Você é Jovem")
 else:
     print("Você é Velho")
+lira = "Python Desenvolvedor"
+print(lira)
