@@ -1,5 +1,5 @@
 print("Hello World")
-idade=42
+idade=50
 nome = input("Qual o seu nome ? ")
 print(f" O ,{nome}, tem ,{idade} anos")
 if idade < 40:
